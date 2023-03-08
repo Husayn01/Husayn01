@@ -4,7 +4,7 @@
 - 📫 Feel free to reach me on: 
 Email: hussainiahmed222@gmail.com
 Twitter: https://twitter.com/Husayn_01
-LinkedIn: https://www.linkedin.com/mwlite/in/hussaini-ahmed-a51232252
+LinkedIn: https://www.linkedin.com/mwlite/in/hussaini-ahmed
 
 
 
