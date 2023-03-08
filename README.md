@@ -26,7 +26,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Husayn01)](https://git.io/streak-stats)
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husayn01&show_icons=true&locale=en" alt="husayn01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husayn01&show_icons=true&locale=en" alt="husayn01" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husayn01)](https://github.com/husayn01/github-readme-stats)
 
