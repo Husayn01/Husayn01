@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Hussaini. I am a Front-end Web Developer.
-- 🌱 I use web languages and technologies like HTML, CSS, JavaScript, Bootstrap and React.js to create and maintain web apps and websites.
+# Hello World
+## I’m Hussaini. I am a Front-end Web Developer.
+- 🌱 I use web languages and technologies including HTML, CSS, JavaScript, Bootstrap and React.js to create and maintain web apps and websites.
 - 💞️ I’m looking to collaborate to build projects
 - 📫 Feel free to reach me on: 
 [Email](hussainiahmed222@gmail.com) |
@@ -24,6 +25,8 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Husayn01)](https://git.io/streak-stats)
+
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husayn01&show_icons=true&locale=en" alt="husayn01" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husayn01)](https://github.com/husayn01/github-readme-stats)
 
