@@ -2,20 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Husayn01?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/Husayn01?label=Stars&style=social) ![Profile Views](https://komarev.com/ghpvc/?username=Husayn01&color=blue)
 
-### 📫 Connect with Me:
-<a href="https://wa.me/+2349031852400" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
-</a>
-<a href="mailto:hussainiahmed222@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/hussainiahmed" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-</a>
-<a href="https://x.com/Hussayn_01" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-</a>
-
 
 ------------
 ## Languages/Tools/Frameworks & Libraries:
