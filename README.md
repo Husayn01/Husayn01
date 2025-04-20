@@ -2,6 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Husayn01?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/Husayn01?label=Stars&style=social) ![Profile Views](https://komarev.com/ghpvc/?username=Husayn01&color=blue)
 
+Hey there! I’m Hussaini Ahmed — your friendly neighborhood Jack of all trades, master of some (still figuring out which, but having fun along the way).
+
+By day, I’m a Geospatial Data Scientist and an undergraduate Geology student at the Federal University of Technology, Minna. I’m not here to promise the world or make superficial pitches about “changing lives” (even though I lowkey want to). I’m just here to share ideas, embrace the chaos, and maybe build something cool along the way. If you're into data, maps, or just curious minds doing cool stuff—welcome to my corner of the web.
 
 ------------
 ## Languages/Tools/Frameworks & Libraries:
